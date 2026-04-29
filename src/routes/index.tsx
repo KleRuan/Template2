@@ -9,7 +9,7 @@ export const Route = createFileRoute('/')({
 
 const menuCategories = [
   {
-    name: 'Starters',
+    name: 'Starters (TO be edited)',
     items: [
       { name: 'Bruschetta al Pomodoro', description: 'Toasted sourdough, fresh tomatoes, basil, aged balsamic', price: 9 },
       { name: 'Burrata & Prosciutto', description: 'Creamy burrata, Parma ham, arugula, truffle oil', price: 14 },
